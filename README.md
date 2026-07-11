@@ -129,6 +129,7 @@ Based on the analysis, the following recommendations are suggested:
 The notebook saves the most important visualizations, and the shared chart gallery is available here:
 
 - [Image folder](https://drive.google.com/drive/folders/1NpeQ4vD1QeMxJz40M9Qfi51DN4yyeSmK?usp=sharing)
+
 ## Future Work
 
 Potential next steps for this project include:
