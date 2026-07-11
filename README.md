@@ -23,7 +23,7 @@ The analysis aims to answer several important business questions:
 The project uses the following files:
 
 - [ecommerce_data_1M.csv](ecommerce_data_1M.csv) — raw e-commerce transaction dataset
-- Cleaned dataset: [Google Drive link](https://drive.google.com/file/d/1u5zvgvJLscXzuI25ehyMnH_Y4mZiemjO/view?usp=sharing) — cleaned version prepared during the notebook workflow
+- [Cleaned dataset](https://drive.google.com/file/d/1u5zvgvJLscXzuI25ehyMnH_Y4mZiemjO/view?usp=sharing) — cleaned version prepared during the notebook workflow
 
 The dataset includes key business and customer-related fields such as:
 
@@ -126,17 +126,9 @@ Based on the analysis, the following recommendations are suggested:
 
 ## Visual Outputs
 
-The notebook saves the most important visualizations in the [images](images) folder for easy reuse in reports and presentations.
+The notebook saves the most important visualizations, and the shared chart gallery is available here:
 
-Available charts:
-
-- [images/gender_distribution.png](images/gender_distribution.png)
-- [images/top_cities_orders.png](images/top_cities_orders.png)
-- [images/sales_by_age_group.png](images/sales_by_age_group.png)
-- [images/revenue_by_category.png](images/revenue_by_category.png)
-- [images/monthly_revenue.png](images/monthly_revenue.png)
-- [images/return_rate_by_category.png](images/return_rate_by_category.png)
-
+- [Image folder](https://drive.google.com/drive/folders/1NpeQ4vD1QeMxJz40M9Qfi51DN4yyeSmK?usp=sharing)
 ## Future Work
 
 Potential next steps for this project include:
