@@ -22,7 +22,7 @@ The analysis aims to answer several important business questions:
 
 The project uses the following files:
 
-- [ecommerce_data_1M.csv](ecommerce_data_1M.csv) — raw e-commerce transaction dataset
+- [ecommerce_data_1M.csv](https://drive.google.com/file/d/1xBOVhFWtWQqjr33dWKJ3LPD_4b5geoML/view?usp=drive_link) — raw e-commerce transaction dataset
 - [Cleaned dataset](https://drive.google.com/file/d/1u5zvgvJLscXzuI25ehyMnH_Y4mZiemjO/view?usp=sharing) — cleaned version prepared during the notebook workflow
 
 The dataset includes key business and customer-related fields such as:
