@@ -23,7 +23,7 @@ The analysis aims to answer several important business questions:
 The project uses the following files:
 
 - [ecommerce_data_1M.csv](ecommerce_data_1M.csv) — raw e-commerce transaction dataset
-- [cleaned_ecommerce.csv](cleaned_ecommerce.csv) — cleaned version prepared during the notebook workflow
+- Cleaned dataset: [Google Drive link](https://drive.google.com/file/d/1u5zvgvJLscXzuI25ehyMnH_Y4mZiemjO/view?usp=sharing) — cleaned version prepared during the notebook workflow
 
 The dataset includes key business and customer-related fields such as:
 
@@ -149,5 +149,5 @@ Potential next steps for this project include:
 
 - [Ecommerce Analysis.ipynb](Ecommerce%20Analysis.ipynb) — main analysis notebook
 - [ecommerce_data_1M.csv](ecommerce_data_1M.csv) — source data
-- [cleaned_ecommerce.csv](cleaned_ecommerce.csv) — cleaned dataset
+- [Cleaned dataset](https://drive.google.com/file/d/1u5zvgvJLscXzuI25ehyMnH_Y4mZiemjO/view?usp=sharing)
 - [README.md](README.md) — project documentation
